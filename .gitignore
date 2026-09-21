@@ -1,0 +1,13 @@
+# API keys / secrets — never commit these
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Notebook outputs (regenerated each run)
+outputs/
